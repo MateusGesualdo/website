@@ -1,2 +1,2 @@
 # website
-Amostras de código HTML, CSS e JavaScript
+Fundamentos de criação de sites para amadores e profissionais
