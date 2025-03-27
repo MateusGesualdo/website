@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+}
+
+h1,
+h2,
+p,
+nav > * {
+  padding: 15px 20px;
+}
+
+nav span{
+  background:azure;
+  box-shadow: 0 5px 0 0 azure;
+}
+
+section {
+  height: 100vh;
+}
+
+header,
+section:nth-of-type(even) {
+  background-color: lightyellow;
+}
+section:nth-of-type(odd) {
+  background-color: azure;
+}
+
+header,
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
