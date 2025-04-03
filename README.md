@@ -4,8 +4,9 @@ Exemplos de código para meus alunos da Proz
 <h2>Comandos da git mais usados</h2>
 
 ```bash
-git pull
+git pull origin main
+git status
 git add --all
 git commit -m"mensagem explicando o que foi feito"
-git push
+git push origin main
 ``` 
