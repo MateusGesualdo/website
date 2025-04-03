@@ -39,6 +39,7 @@ nav {
   align-items: center;
   flex-wrap: wrap;
   img{
+    width: 200px;
     margin:5px
   }
 }
