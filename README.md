@@ -1,8 +1,7 @@
 <h1>website</h1>
-Fundamentos de criação de sites para amadores e profissionais
+Exemplos de código para meus alunos da Proz
 
-<h2>Trabalhando em grupo: git e Github</h2>
-<h3>Comandos da git mais usados</h3>
+<h2>Comandos da git mais usados</h2>
 
 ```bash
 git pull
